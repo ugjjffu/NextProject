@@ -1,0 +1,48 @@
+"filename", "language", "JavaScript", "CSS", "TypeScript JSX", "JSON", "TypeScript", "JSON with Comments", "Markdown", "SVG", "JavaScript JSX", "comment", "blank", "total"
+"d:\personalWebsite\my-next-ts-app\README.md", "Markdown", 0, 0, 0, 0, 0, 0, 23, 0, 0, 0, 14, 37
+"d:\personalWebsite\my-next-ts-app\components\Button.tsx", "TypeScript JSX", 0, 0, 13, 0, 0, 0, 0, 0, 0, 0, 1, 14
+"d:\personalWebsite\my-next-ts-app\components\Car.tsx", "TypeScript JSX", 0, 0, 18, 0, 0, 0, 0, 0, 0, 0, 3, 21
+"d:\personalWebsite\my-next-ts-app\components\ImageCaptionResShow.tsx", "TypeScript JSX", 0, 0, 257, 0, 0, 0, 0, 0, 0, 48, 13, 318
+"d:\personalWebsite\my-next-ts-app\components\ImgAndCaption.tsx", "TypeScript JSX", 0, 0, 16, 0, 0, 0, 0, 0, 0, 0, 1, 17
+"d:\personalWebsite\my-next-ts-app\components\Menu.tsx", "TypeScript JSX", 0, 0, 50, 0, 0, 0, 0, 0, 0, 2, 4, 56
+"d:\personalWebsite\my-next-ts-app\components\NavigatorBar.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 168, 87, 5, 260
+"d:\personalWebsite\my-next-ts-app\components\NavigatorBar.tsx", "TypeScript JSX", 0, 0, 63, 0, 0, 0, 0, 0, 0, 1, 0, 64
+"d:\personalWebsite\my-next-ts-app\components\Slide.tsx", "TypeScript JSX", 0, 0, 114, 0, 0, 0, 0, 0, 0, 2, 2, 118
+"d:\personalWebsite\my-next-ts-app\eslint.config.mjs", "JavaScript", 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 17
+"d:\personalWebsite\my-next-ts-app\lib\checkImgExist.ts", "TypeScript", 0, 0, 0, 0, 12, 0, 0, 0, 0, 9, 1, 22
+"d:\personalWebsite\my-next-ts-app\lib\fetchImgSize.ts", "TypeScript", 0, 0, 0, 0, 12, 0, 0, 0, 0, 9, 1, 22
+"d:\personalWebsite\my-next-ts-app\lib\resizeImg.ts", "TypeScript", 0, 0, 0, 0, 26, 0, 0, 0, 0, 12, 9, 47
+"d:\personalWebsite\my-next-ts-app\next.config.ts", "TypeScript", 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 3, 7
+"d:\personalWebsite\my-next-ts-app\package-lock.json", "JSON", 0, 0, 0, 7474, 0, 0, 0, 0, 0, 0, 1, 7475
+"d:\personalWebsite\my-next-ts-app\package.json", "JSON", 0, 0, 0, 37, 0, 0, 0, 0, 0, 0, 1, 38
+"d:\personalWebsite\my-next-ts-app\pages\api\upload.ts", "TypeScript", 0, 0, 0, 0, 33, 0, 0, 0, 0, 1, 6, 40
+"d:\personalWebsite\my-next-ts-app\pages\indexa.tsx", "TypeScript JSX", 0, 0, 19, 0, 0, 0, 0, 0, 0, 1, 0, 20
+"d:\personalWebsite\my-next-ts-app\pages\indexb.tsx", "TypeScript JSX", 0, 0, 16, 0, 0, 0, 0, 0, 0, 2, 3, 21
+"d:\personalWebsite\my-next-ts-app\postcss.config.mjs", "JavaScript", 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"d:\personalWebsite\my-next-ts-app\public\arrow-forward-outline.svg", "SVG", 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1
+"d:\personalWebsite\my-next-ts-app\public\file.svg", "SVG", 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1
+"d:\personalWebsite\my-next-ts-app\public\globe.svg", "SVG", 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1
+"d:\personalWebsite\my-next-ts-app\public\log-out-outline.svg", "SVG", 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1
+"d:\personalWebsite\my-next-ts-app\public\next.svg", "SVG", 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1
+"d:\personalWebsite\my-next-ts-app\public\person-outline.svg", "SVG", 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1
+"d:\personalWebsite\my-next-ts-app\public\sliderImages\leftArrow.svg", "SVG", 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1
+"d:\personalWebsite\my-next-ts-app\public\sliderImages\leftArrowV2.svg", "SVG", 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1
+"d:\personalWebsite\my-next-ts-app\public\sliderImages\rightArrow.svg", "SVG", 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1
+"d:\personalWebsite\my-next-ts-app\public\sliderImages\rightArrowV2.svg", "SVG", 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1
+"d:\personalWebsite\my-next-ts-app\public\vercel.svg", "SVG", 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1
+"d:\personalWebsite\my-next-ts-app\public\window.svg", "SVG", 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1
+"d:\personalWebsite\my-next-ts-app\scripts\rename.mjs", "JavaScript", 21, 0, 0, 0, 0, 0, 0, 0, 0, 6, 6, 33
+"d:\personalWebsite\my-next-ts-app\src\app\globals.css", "CSS", 0, 22, 0, 0, 0, 0, 0, 0, 0, 0, 6, 28
+"d:\personalWebsite\my-next-ts-app\src\app\layout.tsx", "TypeScript JSX", 0, 0, 30, 0, 0, 0, 0, 0, 0, 0, 5, 35
+"d:\personalWebsite\my-next-ts-app\src\app\page.tsx", "TypeScript JSX", 0, 0, 101, 0, 0, 0, 0, 0, 0, 0, 3, 104
+"d:\personalWebsite\my-next-ts-app\store\reducer\carReducer.tsx", "TypeScript JSX", 0, 0, 36, 0, 0, 0, 0, 0, 0, 6, 6, 48
+"d:\personalWebsite\my-next-ts-app\store\slices\imageUploadSlice.ts", "TypeScript", 0, 0, 0, 0, 55, 0, 0, 0, 0, 1, 4, 60
+"d:\personalWebsite\my-next-ts-app\store\store.ts", "TypeScript", 0, 0, 0, 0, 10, 0, 0, 0, 0, 1, 2, 13
+"d:\personalWebsite\my-next-ts-app\styles\ImageCaptioin.module.css", "CSS", 0, 14, 0, 0, 0, 0, 0, 0, 0, 1, 2, 17
+"d:\personalWebsite\my-next-ts-app\styles\Navigatorbar.css", "CSS", 0, 189, 0, 0, 0, 0, 0, 0, 0, 6, 38, 233
+"d:\personalWebsite\my-next-ts-app\styles\global.css", "CSS", 0, 30, 0, 0, 0, 0, 0, 0, 0, 0, 3, 33
+"d:\personalWebsite\my-next-ts-app\styles\homepage.css", "CSS", 0, 113, 0, 0, 0, 0, 0, 0, 0, 9, 22, 144
+"d:\personalWebsite\my-next-ts-app\styles\slide.css", "CSS", 0, 81, 0, 0, 0, 0, 0, 0, 0, 2, 9, 92
+"d:\personalWebsite\my-next-ts-app\tsconfig.json", "JSON with Comments", 0, 0, 0, 0, 0, 27, 0, 0, 0, 0, 1, 28
+"d:\personalWebsite\react-redux\package.json", "JSON", 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 1, 6
+"Total", "-", 37, 449, 733, 7516, 152, 27, 23, 12, 168, 206, 183, 9506

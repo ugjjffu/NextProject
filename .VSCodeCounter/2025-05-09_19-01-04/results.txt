@@ -1,0 +1,97 @@
+Date : 2025-05-09 19:01:04
+Directory : d:\personalWebsite
+Total : 46 files,  9117 codes, 206 comments, 183 blanks, all 9506 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| JSON               |          3 |      7,516 |          0 |          3 |      7,519 |
+| TypeScript JSX     |         12 |        733 |         62 |         41 |        836 |
+| CSS                |          6 |        449 |         18 |         80 |        547 |
+| JavaScript JSX     |          1 |        168 |         87 |          5 |        260 |
+| TypeScript         |          7 |        152 |         33 |         26 |        211 |
+| JavaScript         |          3 |         37 |          6 |         13 |         56 |
+| JSON with Comments |          1 |         27 |          0 |          1 |         28 |
+| Markdown           |          1 |         23 |          0 |         14 |         37 |
+| SVG                |         12 |         12 |          0 |          0 |         12 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                   | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                      |         46 |      9,117 |        206 |        183 |      9,506 |
+| my-next-ts-app                                                         |         45 |      9,112 |        206 |        182 |      9,500 |
+| my-next-ts-app (Files)                                                 |          7 |      7,581 |          0 |         27 |      7,608 |
+| my-next-ts-app\components                                              |          8 |        699 |        140 |         29 |        868 |
+| my-next-ts-app\lib                                                     |          3 |         50 |         30 |         11 |         91 |
+| my-next-ts-app\pages                                                   |          3 |         68 |          4 |          9 |         81 |
+| my-next-ts-app\pages (Files)                                           |          2 |         35 |          3 |          3 |         41 |
+| my-next-ts-app\pages\api                                               |          1 |         33 |          1 |          6 |         40 |
+| my-next-ts-app\public                                                  |         12 |         12 |          0 |          0 |         12 |
+| my-next-ts-app\public (Files)                                          |          8 |          8 |          0 |          0 |          8 |
+| my-next-ts-app\public\sliderImages                                     |          4 |          4 |          0 |          0 |          4 |
+| my-next-ts-app\scripts                                                 |          1 |         21 |          6 |          6 |         33 |
+| my-next-ts-app\src                                                     |          3 |        153 |          0 |         14 |        167 |
+| my-next-ts-app\src\app                                                 |          3 |        153 |          0 |         14 |        167 |
+| my-next-ts-app\store                                                   |          3 |        101 |          8 |         12 |        121 |
+| my-next-ts-app\store (Files)                                           |          1 |         10 |          1 |          2 |         13 |
+| my-next-ts-app\store\reducer                                           |          1 |         36 |          6 |          6 |         48 |
+| my-next-ts-app\store\slices                                            |          1 |         55 |          1 |          4 |         60 |
+| my-next-ts-app\styles                                                  |          5 |        427 |         18 |         74 |        519 |
+| react-redux                                                            |          1 |          5 |          0 |          1 |          6 |
++------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                               | language           | code       | comment    | blank      | total      |
++------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| d:\personalWebsite\my-next-ts-app\README.md                            | Markdown           |         23 |          0 |         14 |         37 |
+| d:\personalWebsite\my-next-ts-app\components\Button.tsx                | TypeScript JSX     |         13 |          0 |          1 |         14 |
+| d:\personalWebsite\my-next-ts-app\components\Car.tsx                   | TypeScript JSX     |         18 |          0 |          3 |         21 |
+| d:\personalWebsite\my-next-ts-app\components\ImageCaptionResShow.tsx   | TypeScript JSX     |        257 |         48 |         13 |        318 |
+| d:\personalWebsite\my-next-ts-app\components\ImgAndCaption.tsx         | TypeScript JSX     |         16 |          0 |          1 |         17 |
+| d:\personalWebsite\my-next-ts-app\components\Menu.tsx                  | TypeScript JSX     |         50 |          2 |          4 |         56 |
+| d:\personalWebsite\my-next-ts-app\components\NavigatorBar.jsx          | JavaScript JSX     |        168 |         87 |          5 |        260 |
+| d:\personalWebsite\my-next-ts-app\components\NavigatorBar.tsx          | TypeScript JSX     |         63 |          1 |          0 |         64 |
+| d:\personalWebsite\my-next-ts-app\components\Slide.tsx                 | TypeScript JSX     |        114 |          2 |          2 |        118 |
+| d:\personalWebsite\my-next-ts-app\eslint.config.mjs                    | JavaScript         |         12 |          0 |          5 |         17 |
+| d:\personalWebsite\my-next-ts-app\lib\checkImgExist.ts                 | TypeScript         |         12 |          9 |          1 |         22 |
+| d:\personalWebsite\my-next-ts-app\lib\fetchImgSize.ts                  | TypeScript         |         12 |          9 |          1 |         22 |
+| d:\personalWebsite\my-next-ts-app\lib\resizeImg.ts                     | TypeScript         |         26 |         12 |          9 |         47 |
+| d:\personalWebsite\my-next-ts-app\next.config.ts                       | TypeScript         |          4 |          0 |          3 |          7 |
+| d:\personalWebsite\my-next-ts-app\package-lock.json                    | JSON               |      7,474 |          0 |          1 |      7,475 |
+| d:\personalWebsite\my-next-ts-app\package.json                         | JSON               |         37 |          0 |          1 |         38 |
+| d:\personalWebsite\my-next-ts-app\pages\api\upload.ts                  | TypeScript         |         33 |          1 |          6 |         40 |
+| d:\personalWebsite\my-next-ts-app\pages\indexa.tsx                     | TypeScript JSX     |         19 |          1 |          0 |         20 |
+| d:\personalWebsite\my-next-ts-app\pages\indexb.tsx                     | TypeScript JSX     |         16 |          2 |          3 |         21 |
+| d:\personalWebsite\my-next-ts-app\postcss.config.mjs                   | JavaScript         |          4 |          0 |          2 |          6 |
+| d:\personalWebsite\my-next-ts-app\public\arrow-forward-outline.svg     | SVG                |          1 |          0 |          0 |          1 |
+| d:\personalWebsite\my-next-ts-app\public\file.svg                      | SVG                |          1 |          0 |          0 |          1 |
+| d:\personalWebsite\my-next-ts-app\public\globe.svg                     | SVG                |          1 |          0 |          0 |          1 |
+| d:\personalWebsite\my-next-ts-app\public\log-out-outline.svg           | SVG                |          1 |          0 |          0 |          1 |
+| d:\personalWebsite\my-next-ts-app\public\next.svg                      | SVG                |          1 |          0 |          0 |          1 |
+| d:\personalWebsite\my-next-ts-app\public\person-outline.svg            | SVG                |          1 |          0 |          0 |          1 |
+| d:\personalWebsite\my-next-ts-app\public\sliderImages\leftArrow.svg    | SVG                |          1 |          0 |          0 |          1 |
+| d:\personalWebsite\my-next-ts-app\public\sliderImages\leftArrowV2.svg  | SVG                |          1 |          0 |          0 |          1 |
+| d:\personalWebsite\my-next-ts-app\public\sliderImages\rightArrow.svg   | SVG                |          1 |          0 |          0 |          1 |
+| d:\personalWebsite\my-next-ts-app\public\sliderImages\rightArrowV2.svg | SVG                |          1 |          0 |          0 |          1 |
+| d:\personalWebsite\my-next-ts-app\public\vercel.svg                    | SVG                |          1 |          0 |          0 |          1 |
+| d:\personalWebsite\my-next-ts-app\public\window.svg                    | SVG                |          1 |          0 |          0 |          1 |
+| d:\personalWebsite\my-next-ts-app\scripts\rename.mjs                   | JavaScript         |         21 |          6 |          6 |         33 |
+| d:\personalWebsite\my-next-ts-app\src\app\globals.css                  | CSS                |         22 |          0 |          6 |         28 |
+| d:\personalWebsite\my-next-ts-app\src\app\layout.tsx                   | TypeScript JSX     |         30 |          0 |          5 |         35 |
+| d:\personalWebsite\my-next-ts-app\src\app\page.tsx                     | TypeScript JSX     |        101 |          0 |          3 |        104 |
+| d:\personalWebsite\my-next-ts-app\store\reducer\carReducer.tsx         | TypeScript JSX     |         36 |          6 |          6 |         48 |
+| d:\personalWebsite\my-next-ts-app\store\slices\imageUploadSlice.ts     | TypeScript         |         55 |          1 |          4 |         60 |
+| d:\personalWebsite\my-next-ts-app\store\store.ts                       | TypeScript         |         10 |          1 |          2 |         13 |
+| d:\personalWebsite\my-next-ts-app\styles\ImageCaptioin.module.css      | CSS                |         14 |          1 |          2 |         17 |
+| d:\personalWebsite\my-next-ts-app\styles\Navigatorbar.css              | CSS                |        189 |          6 |         38 |        233 |
+| d:\personalWebsite\my-next-ts-app\styles\global.css                    | CSS                |         30 |          0 |          3 |         33 |
+| d:\personalWebsite\my-next-ts-app\styles\homepage.css                  | CSS                |        113 |          9 |         22 |        144 |
+| d:\personalWebsite\my-next-ts-app\styles\slide.css                     | CSS                |         81 |          2 |          9 |         92 |
+| d:\personalWebsite\my-next-ts-app\tsconfig.json                        | JSON with Comments |         27 |          0 |          1 |         28 |
+| d:\personalWebsite\react-redux\package.json                            | JSON               |          5 |          0 |          1 |          6 |
+| Total                                                                  |                    |      9,117 |        206 |        183 |      9,506 |
++------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
